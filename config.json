@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseretch",
+        "uuid": 4077021,
+        "checksum": "yutk3g"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
